@@ -4,3 +4,4 @@
 ![algorithm](https://user-images.githubusercontent.com/98607828/158212580-d319a9f8-b411-4e91-9109-354c84a5be90.jpg)
 ![DIVIDER_RTL_DESIGN](https://user-images.githubusercontent.com/98607828/158213660-0d1b66e0-7569-49b9-b01a-0b31c008d742.jpg)
 
+![SIM_RTL_DIV](https://user-images.githubusercontent.com/98607828/158225845-c30e2fb3-8e03-42dc-a655-17edcfead2ed.gif)
