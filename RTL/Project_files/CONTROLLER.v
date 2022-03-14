@@ -132,7 +132,7 @@ output reg [`STATE_WIDTH-1:0] p_STATE ;
                  end   
              end              
        `S1 : begin   
-                     CV = 13'b00111_1x00x100; 
+                     CV = 13'b00111_1x10x100; 
                  //    clr_nn = 1'b0 ;
                    //  done = 1'b0;
                      end
