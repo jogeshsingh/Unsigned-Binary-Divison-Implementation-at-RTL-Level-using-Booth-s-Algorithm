@@ -12,6 +12,35 @@ This project is based upon the implementation of 4 bit Divider using Booth's alg
 ![binary_unsigned_division](https://user-images.githubusercontent.com/98607828/158212530-53c79683-0a50-4fc6-995a-53f105319150.jpg)
 ![algorithm](https://user-images.githubusercontent.com/98607828/158212580-d319a9f8-b411-4e91-9109-354c84a5be90.jpg)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![datapath](https://user-images.githubusercontent.com/98607828/158296899-a69c5cdf-f3da-42c6-aefd-9ddae15b28b8.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## RTL VIEW
 ![DIVIDER_RTL_DESIGN](https://user-images.githubusercontent.com/98607828/158213660-0d1b66e0-7569-49b9-b01a-0b31c008d742.jpg)
 ## Simulation_Result
