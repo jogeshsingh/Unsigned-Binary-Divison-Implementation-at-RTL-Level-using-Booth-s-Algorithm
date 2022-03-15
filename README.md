@@ -21,6 +21,19 @@ This project is based upon the implementation of 4 bit Divider using Booth's alg
 
 
 
+![FLOWCHART](https://user-images.githubusercontent.com/98607828/158296967-a8aceb29-8a3e-4c6a-8941-7a7713d292e5.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
