@@ -49,6 +49,7 @@ This project is based upon the implementation of 4 bit Divider using Booth's alg
 
 
 
+![IMG20220315082846](https://user-images.githubusercontent.com/98607828/158297530-d4b560eb-068c-41b0-a298-305a972721ea.jpg)
 
 
 
