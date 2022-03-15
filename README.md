@@ -1,7 +1,21 @@
 # 4 bit Unsigned-Binary-Divison-Implementation-at-RTL-Level-using-Booth's-Algorithm
 
 ## Description
-This project is based upon the implementation of 4 bit Divider using Booth's algorithm at RTL level. Here A is reperesenting as Remainder which is actually used as reg_r in datapath , while M is used as Divisor(0011) which is reg B in datapath while Q is Quotient(0111) Register . After four consecutive (S0 , S1, S2)state transitions, output reg_R is loaded with remainder in S1 and Quotient is available in S2 state which are 0001(1) and 0010(2) in simulation respectively. This project was implemented in Xilinx VIVADO and VERILOG HDL was used to write the RTL description of entire DATAPATH and CONTROLLER unit. 
+This project is based upon the implementation of 4 bit Divider using Booth's algorithm at RTL level. Here A is reperesenting as Remainder which is actually used as reg_r in datapath , while M is used as Divisor(0011) which is reg B in datapath while Q is Quotient(0111) Register . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+After four consecutive (S0 , S1, S2)state transitions, output reg_R is loaded with remainder in S1 and Quotient is available in S2 state which are 0001(1) and 0010(2) in simulation respectively. This project was implemented in Xilinx VIVADO and VERILOG HDL was used to write the RTL description of entire DATAPATH and CONTROLLER unit. 
 
 
 
