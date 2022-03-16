@@ -15,7 +15,7 @@ This project is based upon the implementation of 4 bit Divider using Booth's alg
 
 
 
-After four consecutive (S0 , S1, S2)state transitions, output reg_R is loaded with remainder in S2 and Quotient is available in S2 state which are 0001(1) and 0010(2) in simulation respectively. This project was implemented in Xilinx VIVADO and VERILOG HDL was used to write the RTL description of entire DATAPATH and CONTROLLER unit. 
+After four consecutive (S0 , S1, S2)state transitions, output reg_R is (remainder) and Quotient is available in S2 state which are 0001(1) and 0010(2) in simulation respectively. This project was implemented in Xilinx VIVADO and VERILOG HDL was used to write the RTL description of entire DATAPATH and CONTROLLER unit. 
 
 
 
