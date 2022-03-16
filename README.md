@@ -72,4 +72,14 @@ After four consecutive (S0 , S1, S2)state transitions, output reg_R is loaded wi
 ## RTL VIEW
 ![DIVIDER_RTL_DESIGN](https://user-images.githubusercontent.com/98607828/158213660-0d1b66e0-7569-49b9-b01a-0b31c008d742.jpg)
 ## Simulation_Result
-![SIM_RTL_DIV](https://user-images.githubusercontent.com/98607828/158225845-c30e2fb3-8e03-42dc-a655-17edcfead2ed.gif)
+
+
+
+
+
+
+
+
+
+
+![SIM_RTL_DIVIDER](https://user-images.githubusercontent.com/98607828/158646925-2d0d04a0-f2c6-4d9f-bd2b-101ed7d95cb6.jpg)
