@@ -155,20 +155,7 @@ output reg [`STATE_WIDTH-1:0] p_STATE ;
                        // done = 1'b1;
        end
        end
-    //  `S4 : begin 
-       //          CV =   10'b00100_1xxxx;
-        //  //       done = 1'b1;
-           ///      end
-              // CV = 11'b00100_1x1000;
-             /// CV = 10'b00111_xx000;
-                //       clr_nn = 1'b0 ;
-                //       end
-                       /*end
-                       else
-                     CV = 10'b00111_0x000;
-                       clr_nn = 1'b1 ;
-                       end   
-                     */   
+    
            default : begin   CV = 13'b01100_1x111000;
                         ///     clr_nn = 1'b0;
                              end
