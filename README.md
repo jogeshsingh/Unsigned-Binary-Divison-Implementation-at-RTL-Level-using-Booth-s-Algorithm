@@ -64,6 +64,7 @@ After four consecutive (S0 , S1, S2)state transitions, output reg_R is (remainde
 
 
 
+![IMG20220316225126](https://user-images.githubusercontent.com/98607828/158650386-99b57056-10f9-418a-bebb-65a16ab31c52.jpg)
 
 
 
