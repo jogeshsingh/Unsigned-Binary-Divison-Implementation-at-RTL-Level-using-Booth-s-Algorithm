@@ -1,4 +1,4 @@
-# 4 bit Unsigned-Binary-Divison-Implementation-at-RTL-Level-using-Booth's-Algorithm
+# Unsigned-Binary-Divison-Implementation-at-RTL-Level
 This project is based upon the implementation of 4 bit Divider using Booth's algorithm at RTL level. Here A is reperesenting as Remainder which is actually used as reg_r in datapath , while M is used as Divisor(0011) which is reg B in datapath while Q is Quotient(0111) Register . 
 
 
